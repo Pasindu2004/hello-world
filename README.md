@@ -1,5 +1,5 @@
 # hello-world
 
-hi!
+Hi!
 
-I'am  Pasindu.My favorite coding language is  java. 
+I am  Pasindu. My favorite programming language is java. 
